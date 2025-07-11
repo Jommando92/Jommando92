@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jommando92
 - 👀 I’m interested in coding, learning all as much as i can.
-- 🌱 I’m currently learning Computer Science in the University of Reading with Industial year
-- 🌱 Looking in to get to my industrial year so i can get the experience needed to get to my target.
-- 💞️ I’m looking to collaborate on some projects but i for now a very basic on computer 
+- 🌱 I’m a recent Graduate in  Computer Science in the University of Reading
+- 🌱 Looking in to get to my field as a Software Engineer,  .
+- 💞️ I’m looking to collaborate on some projects but for now a very basic on computer 
 - 📫 How to reach me email me
 
 <!---
